@@ -41,7 +41,6 @@ ProCode uses the **Gemini API** to provide intelligent suggestions and explanati
 
 ## Technologies Used
 
--JSON – manifest.json for extension configuration and permissions
 -JavaScript
 -Chrome Extension APIs
 -Gemini API
