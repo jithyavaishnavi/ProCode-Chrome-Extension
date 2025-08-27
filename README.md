@@ -1,6 +1,7 @@
 # ProCode Chrome Extension
 
-ProCode is a **smart Chrome extension** designed to assist developers in learning, problem-solving, and improving coding skills. Whether you are a beginner or an advanced programmer, ProCode provides tools to enhance your thinking and approach to coding challenges — without just giving away the solution.
+ProCode is a **smart Chrome extension** designed to assist developers in learning, problem-solving, and improving coding skills. Whether you are a beginner or an advanced programmer, ProCode provides tools to enhance your thinking and approach to coding challenges — without just giving away the solution. It is a web-based Chrome extension designed to enhance the coding experience on LeetCode by providing quick access to solutions, hints, and problem analysis. It aims to save time, organize problem-solving approaches, and assist users in learning efficiently. The extension is lightweight, fast, and user-friendly, making it ideal for beginners and advanced coders alike.
+
 
 ## Features
 
@@ -40,11 +41,11 @@ ProCode uses the **Gemini API** to provide intelligent suggestions and explanati
 4. Enjoy learning while coding smarter! 🚀
 
 ## Technologies Used
-
--JavaScript
--Chrome Extension APIs
--Gemini API
--HTML & CSS for the UI
+- JSON : Manifest file configuration (manifest.json) to define the extension’s metadata and permissions.
+- JavaScript
+- Chrome Extension APIs
+- Gemini API
+- HTML & CSS for the UI
 
 ## Contributing
 
